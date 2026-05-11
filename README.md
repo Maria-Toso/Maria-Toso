@@ -1,16 +1,20 @@
+<p align="center">
+  <img src="assets/banner.png" />
+</p>
+
 <h1 align="center">Maria Eduarda Toso</h1>
 
 <p align="center">
-Computer Science Student • Backend Developer • Graph Databases Enthusiast
+Computer Science student focused on web applications, backend, data, and modern interfaces.
 </p>
 
 ---
 
 ## About Me
 
-- Computer Science student focused on backend development
-- Building graph-based systems with Neo4j and Cypher
-- Interested in recommendation systems, analytics, and scalable applications
+- Computer Science student focused on web applications, backend development, data, and modern interfaces
+- Building projects that combine performance, usability, and professional design
+- Interested in databases, recommendation systems, analytics, and scalable applications
 - Passionate about solving real-world problems through technology
 
 ---
