@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".assets/banner.png" />
+  <img src="https://raw.githubusercontent.com/Maria-Toso/Maria-Toso/main/assets/banner.png" />
 </p>
 
 <h1 align="center">Maria Eduarda Toso</h1>
